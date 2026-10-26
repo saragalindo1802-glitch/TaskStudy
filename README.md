@@ -86,4 +86,4 @@ app/
 
 ## Documentación
 
-El informe de avance completo (R1-A1-S3) se encuentra en la carpeta `docs/`.
+El informe de avance completo (R1-A1-S3) se encuentra en este repositorio
